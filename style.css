@@ -34,3 +34,6 @@ body {
   background-size: cover;
   border-radius: 10px;
 }
+.box.hover {
+  border: 2px dashed #333;
+}
